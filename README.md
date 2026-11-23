@@ -1,19 +1,26 @@
 # Skills de IA para concursos
 
-Duas skills da imersão **IA para concursos**, do PRO Grupo. Uma skill é uma instrução fixa que a IA segue sempre do mesmo jeito: você escreve uma vez e usa sempre.
+Três skills da imersão **IA para concursos**, do PRO Grupo. Uma skill é uma instrução fixa que a IA segue sempre do mesmo jeito: você escreve uma vez e usa sempre.
 
 | Skill | O que faz |
 |---|---|
 | [Mapa do edital](mapa-do-edital/SKILL.md) | Organiza o conteúdo programático de um edital em pontos, com o tamanho de cada um, as normas citadas e o tipo de estudo sugerido |
 | [Plano da semana](plano-da-semana/SKILL.md) | Usa o mapa, o seu tempo livre e o seu nível em cada disciplina para montar a semana de estudo, com questões e revisões |
+| [Dashboards de estudo](dashboards-de-estudo/SKILL.md) | Transforma a sua planilha de registro em um dashboard em HTML, em três estilos: mapa de calor, painel de metas e caderno de erros |
 
 ## Como usar
 
 1. Abra uma conversa nova na sua IA de chat, ou crie um projeto.
 2. Cole o texto de uma `SKILL.md` como primeira mensagem (ou como instrução do projeto).
-3. Na mensagem seguinte, entregue o material: o conteúdo programático do seu cargo para o **Mapa do edital**, ou o mapa pronto com as suas horas e a data da prova para o **Plano da semana**.
+3. Na mensagem seguinte, entregue o material: o conteúdo programático do seu cargo para o **Mapa do edital**, o mapa pronto com as suas horas e a data da prova para o **Plano da semana**, ou a planilha de registro preenchida para os **Dashboards de estudo**.
 
-Use as duas em sequência: primeiro o mapa, depois o plano.
+Use em sequência: o mapa, o plano e, com o seu registro de estudo, os dashboards.
+
+## Um repositório para cada skill
+
+- [skill-mapa-do-edital](https://github.com/simiao-cavalcante/skill-mapa-do-edital)
+- [skill-plano-da-semana](https://github.com/simiao-cavalcante/skill-plano-da-semana)
+- [skill-dashboards-de-estudo](https://github.com/simiao-cavalcante/skill-dashboards-de-estudo)
 
 ## O que elas não fazem
 
